@@ -1,0 +1,270 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.box{
+    width: 400px;
+    height: 400px;
+    background: red;
+    border-radius: 60px;
+    margin: 50px auto;
+    position: relative;
+
+}
+.wrapper{
+  width: 290px;
+  height: 290px;
+  background: red;
+  border-radius: 60px;
+  border: 30px solid white;
+  position: absolute;
+  top: 55px;
+  left: 55px;
+}
+.dumoloq{
+    width: 150px;
+    height: 150px;
+    background: red;
+    border: 30px solid white;
+    border-radius: 50%;
+    position: absolute;
+    top:125px ;
+    left: 125px;
+}
+.nuqta{
+    width: 30px;
+    height: 30px;
+    background: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 100px; 
+    left: 270px;
+}
+
+.box1{
+    width: 400px;
+    height: 400px;
+    background: rgb(207, 206, 206);
+    border-radius: 60px;
+    margin: 50px auto;
+    position: relative;
+
+}
+.wrapper1{
+    width: 230px;
+    height: 310px;
+    background: black;
+    border-radius: 30px;
+    position: absolute;
+    top: 50px;
+    left: 90px;
+
+}
+.dumoloq1{
+   width: 200px;
+   height: 80px;
+   background: grey;
+   border-radius: 10px;
+   position: absolute;
+   top: 20px;
+   left: 15px;
+}
+.nuqta1{
+    width: 50px;
+    height: 50px;
+    background: whitesmoke;
+    border-radius: 50%;
+    position: absolute;
+    top: 115px;
+    left: 15px;
+}
+.nuqta2{
+    width: 50px;
+    height: 50px;
+    background: whitesmoke;
+    border-radius: 50%;
+    position: absolute;
+    top: 115px;
+    left: 90px;
+}
+.nuqta3{
+    width: 50px;
+    height: 50px;
+    background: rgb(240, 136, 8);
+    border-radius: 50%;
+    position: absolute;
+    top: 115px;
+    left: 165px;
+}
+.nuqta4{
+    width: 50px;
+    height: 50px;
+    background: whitesmoke;
+    border-radius: 50%;
+    position: absolute;
+    top: 180px;
+    left: 15px;
+}
+.nuqta5{
+    width: 50px;
+    height: 50px;
+    background: whitesmoke;
+    border-radius: 50%;
+    position: absolute;
+    top: 180px;
+    left: 90px;
+}
+.nuqta6{
+    width: 50px;
+    height: 50px;
+    background: rgb(240, 136, 8);
+    border-radius: 50%;
+    position: absolute;
+    top: 180px;
+    left: 165px;
+}
+.nuqta7{
+    width: 130px;
+    height: 45px;
+    background: whitesmoke;
+    border-radius: 30px;
+    position: absolute;
+    top: 245px;
+    left: 15px;
+
+}
+.nuqta8{
+    width: 50px;
+    height: 50px;
+    background: rgb(240, 136, 8);
+    border-radius: 50%;
+    position: absolute;
+    top: 245px;
+    left: 165px;
+}
+
+
+
+
+
+
+.box2{
+    width: 400px;
+    height: 400px;
+    background: rgb(175, 174, 174);
+    border-radius: 60px;
+    margin: 50px auto;
+    position: relative;
+
+}
+.wrapper2{
+    width: 120px;
+    height: 40px;
+    background:rgb(57, 57, 57) ;
+    border-radius: 10px;
+    position: absolute;
+    top: 95px;
+    left: 140px;
+}
+.dumoloq2{
+    width: 300px;
+    height: 200px;
+    background: rgb(57, 57, 57);
+    border-radius: 20px;
+    position: absolute;
+    top: 120px;
+    left: 50px;
+
+}
+.nuqta10{
+    width: 150px;
+    height: 150px;
+    background:rgb(57, 57, 57) ;
+    border-radius: 50%;
+    border: 20px solid  rgb(175, 174, 174);
+    position: absolute;
+    top: 25px;
+    left: 80px;
+}
+.nuqta11{
+    width: 20px;
+    height: 20px;
+    background: gold;
+    border-radius: 50%;
+    position: absolute;
+    top: 150px ;
+    left: 280px;
+}
+
+
+
+
+.box3{
+    width: 400px;
+    height: 400px;
+    background: rgb(34, 34, 34);
+    border-radius: 60px;
+    margin: 50px auto;
+    position: relative;
+
+}
+.wrapper3{
+    width: 190px;
+    height: 190px;
+    background:rgb(57, 57, 57) ;
+    border-radius: 50%;
+    border: 14px solid  rgb(244, 239, 239);
+    position: absolute;
+    top: 40px;
+    left: 50px;
+}
+.dumoloq3{
+    width: 150px;
+    height: 25px;
+    background: whitesmoke;
+    border-radius: 20px;
+    transform: rotate(50deg);
+    position: absolute;
+    top: 248px;
+    left: 170px;
+}
+.nuqta12{
+    width: 16px;
+    height: 120px;
+    background: rgb(255, 166, 0);
+    border-radius: 20px;
+    position: absolute;
+    top: 76px;
+    left: 137px;
+}
+.nuqta13{
+    width: 120px;
+    height: 16px;
+    background: rgb(255, 166, 0);
+    border-radius: 20px;
+    position: absolute;
+    top: 130px;
+    left: 85px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

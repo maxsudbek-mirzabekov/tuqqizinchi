@@ -1,0 +1,166 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+.navbar{
+    width: 100%;
+    height: 44px;
+    background: #444;
+}
+.nav__collection{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+    height: 100%;
+    margin: auto;
+    color: #ddd;
+    list-style: none;
+}
+.nav__item span{
+    font-size: 12px;
+}
+.banner{
+    width: 100%;
+    height: 700px;
+    text-align: center;
+    padding-top: 50px;
+    border: 1px solid;
+}
+.banner h1{
+    font-size: 50px;
+    
+}
+.banner p{
+    font-size: 24px;
+    padding: 10px 0;
+    
+}
+.banner a{
+    font-size: 18px;
+    color: dodgerblue;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 14px;
+}
+.banner a span{
+    font-size: 18px;
+}
+.apple__gift{
+    background: url(./img/holiday_2023_hero_still_time_endframe__d3xnuf3pztsi_large.jpg) no-repeat center/cover;
+    padding-top: 450px;
+}
+.apple__watch{
+    background: url(./img/hero_apple_watch_series_9__x5wo4ptz2giu_large.jpg) no-repeat center/cover;
+    padding-top: 450px;
+    color: #fff;
+    
+}
+.apple__iPhone{
+    background: url(./img/hero_iphone15pro__i70z9oz3hj2i_large.jpg) no-repeat center/cover;
+    padding-top: 100px;
+    color: #fff;
+    margin-top: 5px;
+}
+
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.box{
+    width: 50%;
+    height: 550px;
+    border: 3px solid white;
+    text-align: center;
+    padding-top: 20px;
+    margin: auto;
+    
+}
+.box__iphone15{
+    background: url(./img/Аннотация\ 2023-12-21\ 184039.png) no-repeat center/cover;
+}
+.box a{
+    font-size: 18px;
+    color: dodgerblue;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 14px;
+}
+.box a span{
+   
+    font-size: 14px;
+    color: dodgerblue;
+}
+.box h1{
+    color: black;
+}
+.box p{
+    font-size: 18px;
+    padding: 10px 0;
+    color: black;
+    
+}
+.box__pods h1 {
+    color: #fff;
+}
+.box__pods p{
+    color: #fff;
+}
+.box__book{
+    background: url(./img/Аннотация\ 2023-12-21\ 184240.png) no-repeat center/cover;
+}
+.box__watch{
+    background: url(./img/Аннотация\ 2023-12-21\ 184320.png) no-repeat center/cover;
+}
+.box__pods{
+    background: url(./img/Аннотация\ 2023-12-21\ 184347.png) no-repeat center/cover;
+    
+}
+.box__card{
+    background: url(./img/Аннотация\ 2023-12-21\ 184420.png) no-repeat center/cover;
+}
+.box__trade{
+    background: url(./img/Аннотация\ 2023-12-21\ 184445.png) no-repeat center/cover;
+}
+.piga{
+    padding: 20px 20%;
+}
+
+
+
+
+.sen{
+   display: flex;
+   gap: 60px;
+   padding: 20px 240px;
+}
+.pos{
+    padding-left: 240px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
